@@ -1,0 +1,14 @@
+{
+    "Min Salary Employee": {
+        "Surname": "Ivashenko",
+        "Salary": 1500,
+        "Position": "Magager",
+        "Gender": "Male"
+    },
+    "Max Salary Employee": {
+        "Surname": "Rudenko",
+        "Salary": 8000,
+        "Position": "Developer",
+        "Gender": "Female"
+    }
+}

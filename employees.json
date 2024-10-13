@@ -1,0 +1,68 @@
+[
+    {
+        "Surname": "Tkachenko",
+        "Salary": 5000,
+        "Position": "Manager",
+        "Gender": "Male"
+    },
+    {
+        "Surname": "Ivanov",
+        "Salary": 7000,
+        "Position": "Developer",
+        "Gender": "Male"
+    },
+    {
+        "Surname": "Petrova",
+        "Salary": 3000,
+        "Position": "Designer",
+        "Gender": "Female"
+    },
+    {
+        "Surname": "Sidorov",
+        "Salary": 4000,
+        "Position": "Developer",
+        "Gender": "Male"
+    },
+    {
+        "Surname": "Koval",
+        "Salary": 5500,
+        "Position": "Manager",
+        "Gender": "Female"
+    },
+    {
+        "Surname": "Novak",
+        "Salary": 3500,
+        "Position": "Designer",
+        "Gender": "Female"
+    },
+    {
+        "Surname": "Lysenko",
+        "Salary": 4500,
+        "Position": "Developer",
+        "Gender": "Male"
+    },
+    {
+        "Surname": "Bondar",
+        "Salary": 2500,
+        "Position": "Designer",
+        "Gender": "Female"
+    },
+    {
+        "Surname": "Shevchenko",
+        "Salary": 6000,
+        "Position": "Manager",
+        "Gender": "Male"
+    },
+    {
+        "Surname": "Rudenko",
+        "Salary": 8000,
+        "Position": "Developer",
+        "Gender": "Female"
+    },
+    {
+        "Surname": "Ivashenko",
+        "Salary": 1500,
+        "Position": "Magager",
+        "Gender": "Male"
+    }
+]
